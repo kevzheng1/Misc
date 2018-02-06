@@ -100,5 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-#C object files
+#C object files and executables
 *.o
+*
